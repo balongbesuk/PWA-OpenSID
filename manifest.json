@@ -1,0 +1,74 @@
+{
+    "dir" : "ltr",
+    "name" : "Website Resmi Pemerintah Desa Balongbesuk",
+    "short_name" : "Desa Balongbesuk",
+    "categories": ["government", "news", "education"],
+    "lang" : "id",
+    "description": "Website Resmi Pemerintah Desa Balongbesuk, Kecamatan Diwek, Kabupaten Jombang",
+    "scope" : "/",
+    "id" : "/index/1",
+    "start_url" : "/index/1",
+    "url" : "https://www.balongbesuk.desa.id/",
+    "display" : "standalone",
+    "theme_color" : "#FFFFFF",
+    "background_color" : "#FFFFFF",
+    "orientation" : "any",
+    "generated" : "true",
+    "icons" : [
+        {
+            "src": "/android-chrome-192x192.png",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "any"
+        },
+        {
+            "src": "/android-chrome-512x512.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "any"
+        }
+    ],
+    "screenshots": [
+        {
+            "src": "/images/beranda.png",
+            "sizes": "600x1200",
+            "type": "image/png",
+            "platform": "narrow"
+        },
+        {
+            "src": "/images/berita.png",
+            "sizes": "600x1200",
+            "type": "image/png",
+            "platform": "narrow"
+        },
+        {
+            "src": "/images/statistik.png",
+            "sizes": "600x1200",
+            "type": "image/png",
+            "platform": "narrow"
+        },
+        {
+            "src": "/images/mandiri.png",
+            "sizes": "600x1200",
+            "type": "image/png",
+            "platform": "narrow"
+        }
+    ],
+    
+    "shortcuts": [
+    {
+      "name": "Login Admin",
+      "short_name": "Admin",
+      "description": "Login Administrator",
+      "url": "/siteman",
+       "icons": [{ "src": "/android-chrome-192x192.png", "sizes": "192x192" }]
+    },
+        {
+      "name": "Layanan Mandiri",
+      "short_name": "Mandiri",
+      "description": "Login Layanan Mandiri",
+      "url": "/layanan-mandiri",
+       "icons": [{ "src": "/android-chrome-192x192.png", "sizes": "192x192" }]
+    }
+  ]
+}
