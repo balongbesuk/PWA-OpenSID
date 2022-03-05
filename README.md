@@ -22,7 +22,7 @@ pada `<head>` tema HTML, tambahkan code:
 <link rel="manifest" href="manifest.json" />
 ```
 
-## 2. Tambahkan service worker registration snippet ke tema HTML anda
+## 3. Tambahkan service worker registration snippet ke tema HTML anda
 
 pada `<head>` tema HTML, tambahkan code:
 
