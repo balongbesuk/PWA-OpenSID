@@ -34,26 +34,20 @@
   ],
   "screenshots": [
     {
-      "src": "screenshots/beranda.png",
-      "sizes": "600x1200",
-      "type": "image/png",
-      "platform": "narrow"
-    },
-    {
       "src": "screenshots/berita.png",
-      "sizes": "600x1200",
+      "sizes": "600x1065",
       "type": "image/png",
       "platform": "narrow"
     },
     {
       "src": "screenshots/statistik.png",
-      "sizes": "600x1200",
+      "sizes": "600x1065",
       "type": "image/png",
       "platform": "narrow"
     },
     {
       "src": "screenshots/mandiri.png",
-      "sizes": "600x1200",
+      "sizes": "600x1065",
       "type": "image/png",
       "platform": "narrow"
     }
