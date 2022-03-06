@@ -1,9 +1,0 @@
-user-agent: *
-disallow: /ambil_data_covid
-disallow: /securimage
-disallow: /index/
-
-
-user-agent: *
-allow: /artikel
-sitemap: https://www.balongbesuk.desa.id/sitemap.xml
