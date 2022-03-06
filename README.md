@@ -37,3 +37,6 @@ pada `<head>` tema HTML, tambahkan code:
 ## Selamat, Web anda sudah support PWA!
 
 Untuk memverifikasi web sudah PWA, Buka [PWABuilder](https://pwabuilder.com).
+
+![WhatsApp Video 2022-03-05 at 20 04](https://user-images.githubusercontent.com/35319600/156909009-861f12b7-48d8-469b-8685-f3ff83e2b205.gif)
+
