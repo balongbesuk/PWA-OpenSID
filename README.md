@@ -36,9 +36,13 @@ pada `<head>` tema HTML, tambahkan code:
 
 ## Selamat, Web anda sudah support PWA!
 
-Untuk memverifikasi web sudah PWA, Buka [PWABuilder](https://pwabuilder.com).
+Untuk memverifikasi web sudah PWA, Buka [PWABuilder](https://pwabuilder.com). 
 
 ![Untitled](https://user-images.githubusercontent.com/35319600/156909097-eab0e4fe-99b4-48b8-ac4c-9db652e1a69a.jpg)
+
+disamping itu PWABUilder juga membuatkan otomatis aplikasi android, windows, dan ios yang bisa di download
+
+ ![Untitled](https://user-images.githubusercontent.com/35319600/156909817-48249c6d-94d2-4dda-8379-0a6c6faa9f4f.jpg)
 
 Atau bisa juga menggunakan DevTool Bawaan Browser Chrome
 
