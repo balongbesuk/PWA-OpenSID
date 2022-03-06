@@ -3,7 +3,7 @@
 Your next steps:
 1. **download `Seluruh File dan Folder`**
 2. **Edit `manifest.json`** Sesuaikan dengan nama Desa anda
-3. **Edit `Gambar Logo`** Sesuaikan dengan Logo Desa anda
+3. **Edit `Gambar dan Tampilan Web`** Sesuaikan dengan Logo Desa anda
 4. **Upload `semua file dan folder`** ke server
 5. **Tambahkan manifest link tag** ke tema HTML anda 
 6. **Tambahkan service worker registration snippet** ke tema HTML anda
