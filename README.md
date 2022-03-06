@@ -1,8 +1,3 @@
-![WhatsApp Video 2022-03-05 at 20 04](https://user-images.githubusercontent.com/35319600/156909009-861f12b7-48d8-469b-8685-f3ff83e2b205.gif) ![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/35319600/156909429-858ab338-7c10-4f29-bddb-425d4de32077.gif)
-
-
-
-
 # Membangun Progressive Web App (PWA) Opensid
 
 Your next steps:
@@ -50,3 +45,6 @@ Atau bisa juga menggunakan DevTool Bawaan Browser Chrome
 ![Untitled](https://user-images.githubusercontent.com/35319600/156909229-5dc80cfc-2a80-448f-a0ef-4369de0b31ac.jpg)
 
 
+## Preview Hasil 
+
+![WhatsApp Video 2022-03-05 at 20 04](https://user-images.githubusercontent.com/35319600/156909009-861f12b7-48d8-469b-8685-f3ff83e2b205.gif) ![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/35319600/156909429-858ab338-7c10-4f29-bddb-425d4de32077.gif)
